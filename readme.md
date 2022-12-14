@@ -4,7 +4,6 @@ Mitt namn är <b>Felicia Norman</b> och jag studerar till <b>Frontend Developer<
 ## Projekt
 ### Personliga projekt
 - [Väderapp](https://github.com/felicianorman/weatherapp)
-- [Film API](https://github.com/felicianorman/movies)
 - [Memory](https://github.com/felicianorman/memorygame)
 
 ## Skoluppgifter
