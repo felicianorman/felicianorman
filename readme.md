@@ -1,4 +1,4 @@
-# Hej!
+<!--# Hej!
 Mitt namn är <b>Felicia Norman</b> och jag studerar till <b>Frontend Developer</b> på Medieinstitutet i Stockholm.
 
 ## Projekt
@@ -27,4 +27,4 @@ Mitt namn är <b>Felicia Norman</b> och jag studerar till <b>Frontend Developer<
 <h3 align="left">Kontakt:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/felicia-norman-1b8a15152" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="felicia-norman-1b8a15152" height="30" width="40" /></a>
-</p>
+</p>--> 
