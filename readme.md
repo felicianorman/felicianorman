@@ -1,6 +1,6 @@
 
 # Felicia Norman 👾
-<img width="100" height="100" alt="image" src="https://github.com/user-attachments/assets/61277cd8-8e26-447d-9d25-157486c1bb11" />
+![me](https://github.com/felicianorman/gif/blob/main/de5c9bbc320f1d3d711a17d5c87d5d31.gif)
 
 System Developer @ iquest
 
