@@ -2,7 +2,6 @@
 # Felicia Norman Larsson 
 <img src="https://github.com/felicianorman/gif/blob/main/de5c9bbc320f1d3d711a17d5c87d5d31.gif" width="100px" height="100px"/>
 System Developer @ iquest
-You can also find my work profile here:  
 
 👉 [My work GitHub](https://github.com/feliciaiquest)
 
